@@ -19,4 +19,4 @@ curl -X POST "https://:XdUSsFg0RiyqsHifAeJQbw@tandem.autodesk.com/api/v1/timeser
 run: |
 curl -X POST "https://:1AyZK-9DRlO1xTy2Sz-a-A@tandem.autodesk.com/api/v1/timeseries/models/urn:adsk.dtm:pHo71qE2QK-fnSyuHHDdWQ/streams/AQAAAOWScxWOCUqUpV2cDTgr47sAAAAA" \
 -H "Content-Type: application/json" \
--d @stream.json
+-d @"stream.json
